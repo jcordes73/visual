@@ -29,9 +29,6 @@ import java.util.Properties;
 import javax.enterprise.inject.Alternative;
 
 import org.infinispan.client.hotrod.RemoteCacheManager;
-import org.infinispan.client.hotrod.impl.ConfigurationProperties;
-
-import com.redhat.middleware.jdg.visualizer.poller.jdg.JdgJmxCacheNamesPollerManager;
 
 /**
  * 
